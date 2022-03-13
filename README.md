@@ -1,5 +1,5 @@
-# Haruna-Iliya-Masari
+# ABDUSSALAM SHUAIBU
  Software Engineering Assignment
-Reg. No H20CS107
+Reg. No H20CS062
 Department of computer science
 
